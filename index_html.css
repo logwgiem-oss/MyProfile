@@ -1,0 +1,22 @@
+h1, h2, h3 { margin:0; padding:0; font-weight:normal; font-style:normal; }
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#heading_33dab022 { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:24pt; font-family:Arial, Helvetica, sans-serif; color:#000000; text-align:left; font-weight:bold; text-decoration:underline;  }
+#placeh_1af30062 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; border: 1px solid #A0A0A0;  }
+#img_6ef42153 { vertical-align: bottom; position:relative; display: inline-block; width:50%; background:none; height:auto;  }
+#placeh_6dc700a4 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; border: 1px solid #A0A0A0;  }
+#button_659c0436 { vertical-align: bottom; border-radius: 5px; position:relative; display: inline-block; width:176px; height:40px; background-color:#C0C0C0; box-shadow: 7px 7px 10px -5px rgba(0, 0, 0, 0.784314);  }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+.textstyle2 { text-align:center; }
+.textstyle3 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#placeh_1f818d45 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; border: 1px solid #A0A0A0;  }
+#img_7cd148eb { vertical-align: bottom; position:relative; display: inline-block; width:36%; background:none; height:auto;  }
+#placeh_23114cfc { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; border: 1px solid #A0A0A0;  }
+#button_24ee9737 { vertical-align: bottom; border-radius: 5px; position:relative; display: inline-block; width:150px; height:40px; background-color:#C0C0C0; box-shadow: 7px 7px 10px -5px rgba(0, 0, 0, 0.784314);  }
+#placeh_ff4d98b { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; border: 1px solid #A0A0A0;  }
+#button_5e4ff2c4 { vertical-align: bottom; border-radius: 5px; position:relative; display: inline-block; width:150px; height:40px; background-color:#C0C0C0; box-shadow: 7px 7px 10px -5px rgba(0, 0, 0, 0.784314);  }
